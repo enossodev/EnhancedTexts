@@ -1,0 +1,31 @@
+{
+    "settings": {
+        "activationKey": "",
+        "strictTokenBlocking": false,
+        "defaultMode": "direct",
+        "outputLanguage": "english",
+        "agePersonalisation": "pro",
+        "selectedProfileId": "profile-1",
+        "profiles": [
+            {
+                "id": "none",
+                "name": "No Profile",
+                "description": "",
+                "locked": true
+            },
+            {
+                "id": "profile-mqtujdt6-whrql6",
+                "name": "Profile 1",
+                "description": "",
+                "locked": false
+            }
+        ],
+        "autoInsert": false,
+        "autoCopy": false,
+        "useEmojis": true,
+        "useMarkdown": true,
+        "logicalMessageReact": true,
+        "responseLength": "detailed",
+        "activation-key": ""
+    }
+}
